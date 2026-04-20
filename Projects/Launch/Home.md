@@ -19,5 +19,3 @@ Project-local diagram: ![[Assets/diagram.png]]
 Root-level diagram: ![[/Assets/Images/diagram.png]]
 
 Ambiguous basename: ![[diagram.png]]
-
-Symlinked diagram: ![[Assets/diagram-link.png]]
